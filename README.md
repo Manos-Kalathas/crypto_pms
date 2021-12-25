@@ -1,2 +1,2 @@
 # crypto_pms
-Repository with cryptography exercises for the post-graduate class
+Repository with exercises for the post-graduate cryptography class
